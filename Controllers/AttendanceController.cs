@@ -6,13 +6,16 @@ namespace RemoteEmpoyeeManagementSystem.Controllers
     public class AttendanceController : Controller
     {
         private readonly IEmpAttendaceRepository _empAttendanceRepository;
-        public AttendanceController(IEmpAttendaceRepository empAttendaceRepository)
+        private readonly ILogger _logger;
+        public AttendanceController(IEmpAttendaceRepository empAttendaceRepository, ILogger<AttendanceController> logger)
         {
             _empAttendanceRepository = empAttendaceRepository;
+            _logger = logger;
         }
         public IActionResult Index()
         {
            var attendaces= _empAttendanceRepository.GetEmpAttendace();
+            _logger.LogInformation("index attendacne controller");
             return View(attendaces);
         }
         [HttpPost]
