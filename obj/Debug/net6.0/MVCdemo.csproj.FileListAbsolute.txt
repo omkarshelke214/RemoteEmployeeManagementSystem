@@ -1,0 +1,67 @@
+C:\learning projects\MVCdemo\bin\Debug\net6.0\appsettings.Development.json
+C:\learning projects\MVCdemo\bin\Debug\net6.0\appsettings.json
+C:\learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.staticwebassets.runtime.json
+C:\learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.exe
+C:\learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.deps.json
+C:\learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.runtimeconfig.json
+C:\learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.dll
+C:\learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.pdb
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.csproj.AssemblyReference.cache
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.AssemblyInfoInputs.cache
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.AssemblyInfo.cs
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.csproj.CoreCompileInputs.cache
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.MvcApplicationPartsAssemblyInfo.cache
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.RazorAssemblyInfo.cache
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.RazorAssemblyInfo.cs
+C:\learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets\msbuild.MVCdemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCdemo.props
+C:\learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCdemo.props
+C:\learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCdemo.props
+C:\learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\learning projects\MVCdemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\learning projects\MVCdemo\obj\Debug\net6.0\scopedcss\bundle\MVCdemo.styles.css
+C:\learning projects\MVCdemo\obj\Debug\net6.0\scopedcss\projectbundle\MVCdemo.bundle.scp.css
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.dll
+C:\learning projects\MVCdemo\obj\Debug\net6.0\refint\MVCdemo.dll
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.pdb
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.genruntimeconfig.cache
+C:\learning projects\MVCdemo\obj\Debug\net6.0\ref\MVCdemo.dll
+C:\learning projects\MVCdemo\bin\Debug\net6.0\Serilog.dll
+C:\learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.csproj.CopyComplete
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\bin\Debug\net6.0\appsettings.json
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.staticwebassets.runtime.json
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.exe
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.deps.json
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.runtimeconfig.json
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.dll
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\bin\Debug\net6.0\MVCdemo.pdb
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\bin\Debug\net6.0\Serilog.dll
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.csproj.AssemblyReference.cache
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.AssemblyInfoInputs.cache
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.AssemblyInfo.cs
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.csproj.CoreCompileInputs.cache
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.RazorAssemblyInfo.cache
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.RazorAssemblyInfo.cs
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets\msbuild.MVCdemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets\msbuild.build.MVCdemo.props
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVCdemo.props
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVCdemo.props
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\scopedcss\bundle\MVCdemo.styles.css
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\scopedcss\projectbundle\MVCdemo.bundle.scp.css
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.csproj.CopyComplete
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.dll
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\refint\MVCdemo.dll
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.pdb
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\MVCdemo.genruntimeconfig.cache
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\obj\Debug\net6.0\ref\MVCdemo.dll
+C:\Users\w127529\OneDrive - Worldline\Documents\Learning projects\MVCdemo\bin\Debug\net6.0\libman.json

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SU9avjuUD2tTBTgCaySoAvN/i7KQHRZ/N66fU3MinCeEsismvNHA6kq1wHQk84rslLlm//bWS0cxC1+VU0VwVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\w127529\\OneDrive - Worldline\\Documents\\Learning projects\\RemoteEmpoyeeManagementSystem\\RemoteEmpoyeeManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w127529\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
