@@ -2,7 +2,7 @@ using RemoteEmpoyeeManagementSystem.Models;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//new proj
 // Add services to the container.
 var logger = new LoggerConfiguration()
         .ReadFrom.Configuration(builder.Configuration)
